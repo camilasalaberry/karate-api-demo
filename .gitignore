@@ -9,3 +9,8 @@ karate-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCo
 karate-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 karate-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 karate-demo/target/karate.log
+karate-demo/.settings/org.eclipse.m2e.core.prefs
+karate-demo/.settings/org.eclipse.jdt.apt.core.prefs
+karate-demo/.settings/org.eclipse.core.resources.prefs
+karate-demo/.settings/org.eclipse.jdt.core.prefs
+karate-demo/.project
