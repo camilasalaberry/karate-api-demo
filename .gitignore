@@ -1,0 +1,11 @@
+karate-demo/target/surefire-reports/examples.users.users-1.log
+karate-demo/target/surefire-reports/examples.users.users-2.log
+karate-demo/target/surefire-reports/examples.users.UsersRunner.txt
+karate-demo/target/surefire-reports/TEST-examples.users.UsersRunner.xml
+karate-demo/target/test-classes/examples/users/UsersRunner.class
+karate-demo/target/test-classes/examples/ExamplesTest.class
+karate-demo/target/surefire-reports/examples.users.users.html
+karate-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+karate-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+karate-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+karate-demo/target/karate.log
