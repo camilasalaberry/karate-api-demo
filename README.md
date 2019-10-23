@@ -1,2 +1,2 @@
 # karate-api-demo
-karate demo app
+karate demo app with get, post samples.
